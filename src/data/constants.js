@@ -5,7 +5,7 @@ export const Bio = {
     "Eager and adaptable, I'm an individual who thrives on embracing new challenges. Fueled by a passion for continuous learning, I am committed to delivering high-quality results. With a positive attitude and a growth mindset, I am poised to make a meaningful contribution and achieve remarkable milestones in every endeavor.",
   github: "https://github.com/PrahladMehta",
   resume:
-    "https://drive.google.com/file/d/1xlmXRCTNKFm4f1-24a9CAB2wvvPjFd2i/view",
+    "https://drive.google.com/file/d/1ooxKe57UPqun_Zv3dh1J68DOYuScEPDx/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prahladmehta/",
   // twitter: "https://twitter.com/ankit705yadav",
   Github: "https://www.github.com/PrahladMehta/",
@@ -86,7 +86,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://res.cloudinary.com/dflwei6ak/image/upload/v1740682236/git-svgrepo-com_1_c4zd9g.svg",
       },
       {
         name: "GitHub",
@@ -107,7 +107,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
     ],
   },
@@ -151,7 +151,7 @@ export const education = [
     school: "SMT keema joshi memorial  Intercollege ",
     date: "2020",
     grade: "86%",
-    desc: "I completed my class 12 education at New Horizon College, where I studied Science .",
+    desc: "I completed my class 12 education at SMT keema joshi memorial  Intercollege, where I studied Science .",
     degree: "",
   },
   {
